@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/216b9867cd5b516f467ef34c285619947b6ced0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67ae926598095ca9d86d802b82f36832589f7659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="26ea357edea647a6ada9f23a0d0e360f158baf2f">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b9298a935c6c6601087414e55887a52c2f050a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/95acd1b835e80f63e088e81ddb2b919f8473a58a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9df63e4d38da3356cb2cf5393770211ab45c9872/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/f3b424fa4b1beb0206bc675926df7a09a602da18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9afff09aeb27e30539424b07981b72ca570426d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/0856a24a6ee877b9dd7258c743185bb68d3e846a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5883be4b137db4dd9c9406e7c4019ac62d457423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/8004caa08265f0ab5842637dfa3ca00a91787f9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f88557eeac52305094b8c0e5eec71b4b04b12d2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/6f3b54ec36157d85562a72e1f57221c3509d6597/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e09003a97fc768fb1fcffa17f27910aa7e94bb03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d703d8e889f6589295253323be3475deba66ddc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/139888f956f25e841c41c5d972df2d9e3807fc4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2709c12f14ea84ff966b15280c631df45698cf31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/45bbf65b99eb3355f43d6527242355e2b62df8ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cd8499db835853465937ca7f7faae686c668ee2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/e4f448308b402cee6001f0c2dc2f5c1efbd3ceb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e60693957d0310a684a3db81a463aa116a70becf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha7_15773ca93d74f93071702511b64dc7439676133a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/282c21aa18663e184e4cfb81686fb52e750312a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47d1bd86e2eed90c4b56797c70731e591442ae6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/12cde9b8990d043aef2e61ff8e9a78de81fc7903/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f45296670203589670fdf440dbf94d43f5dadb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/0bf6ed0ff94a9e47678996c342a5cc25a19928bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b864168367d7bac885c18f148fbe14fea2db82d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/67db507c597bef90ea66230db9f9734ae9f25f1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d99e3c31c79519e37dd68f91ce177a7d20468e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_b9b146e853e07ef07e030324d27683a9f673abe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michal/.android/build-cache/d6170629399c96087ef5a006d238881130e001ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/michal/AndroidStudioProjects/DialApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9e2e2fb5aa82b23d6fc9523a65ed28aa2c9cadd/classes.dex" />
+    </item>
+
+</items>
